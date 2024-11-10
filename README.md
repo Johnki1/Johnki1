@@ -41,4 +41,4 @@
 - React, MongoDB y AWS para infraestructura en la nube
 
 ### 📫 Contáctame
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/john-alzate) o contactarme directamente por teléfono en [📞 +57 323 419 8831](tel:+573234198831).
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/johnkider) o contactarme directamente por teléfono en [📞 +57 323 419 8831](tel:+573234198831).
