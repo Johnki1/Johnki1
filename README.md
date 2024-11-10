@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm John Alzate
 
-![Banner](link_a_tu_banner) <!-- Asegúrate de reemplazar "link_a_tu_banner" con el enlace a tu imagen. -->
+![Banner](https://github.com/Johnki1/Johnki1/blob/main/Banner.png) 
 
 ### Sobre mí
 👨‍💻 Soy estudiante de Ingeniería Informática con especialización en desarrollo Backend y SQL. Me apasiona crear soluciones eficientes y escalables, y disfruto aprender continuamente para mejorar mis habilidades. Actualmente, me encuentro profundizando en tecnologías frontend con React, bases de datos NoSQL como MongoDB y arquitectura de infraestructura en la nube con AWS.
@@ -41,4 +41,4 @@
 - React, MongoDB y AWS para infraestructura en la nube
 
 ### 📫 Contáctame
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/johnkider) o contactarme directamente por teléfono en [📞 +57 323 419 8831](tel:+573234198831).
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/johnkider) o contactarme directamente en [📞 teléfono](tel:+573234198831).
