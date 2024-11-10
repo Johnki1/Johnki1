@@ -1,4 +1,4 @@
-## Hi there 👋, I'm John Alzate
+## Hi 👋, I'm John Alzate
 
 ![Banner](https://github.com/Johnki1/Johnki1/blob/main/Banner.png) 
 
