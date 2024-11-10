@@ -41,4 +41,5 @@
 - React, MongoDB y AWS para infraestructura en la nube
 
 ### 📫 Contáctame
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/johnkider) o contactarme directamente en [📞 teléfono](tel:+573234198831).
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/johnkider) o [Contáctame por WhatsApp](https://wa.me/573234198831?text=Hola%2C%20contacto%20contigo%20desde%20GitHub%20😊)
+
