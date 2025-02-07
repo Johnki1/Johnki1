@@ -54,10 +54,10 @@
 
 ### 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johnki1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Johnki1&show_icons=true&theme=radical" alt="GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnki1&show_icons=true&theme=onedark)" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnki1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Johnki1&layout=compact&theme=radical" alt="Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnki1&layout=compact&theme=onedark)" />
 </p>
 
 ### 📫 Contact Me
